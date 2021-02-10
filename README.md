@@ -7,3 +7,7 @@ You receive two files:
 Your assignment is to predict interactions (pageviews and contactrequests) based on car characteristics. 
 
 The way you get to the results is more important than the results itself.
+
+# Log:
+
+10-2-2021:
