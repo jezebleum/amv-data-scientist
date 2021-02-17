@@ -1,15 +1,10 @@
 
-# temp_ignore above
-data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
-.thesis-venv/
-raw_data/
 
 # Distribution / packaging
 .Python
